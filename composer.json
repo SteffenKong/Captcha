@@ -1,6 +1,6 @@
 {
     "name": "steffenkong/captcha",
-    "type": "composer-plugin",
+    "type": "project",
     "authors": [
         {
             "name": "kong",
