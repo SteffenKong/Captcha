@@ -1,0 +1,11 @@
+{
+    "name": "steffenkong/captcha",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "kong",
+            "email": "3266023724@qq.com"
+        }
+    ],
+    "require": {}
+}
